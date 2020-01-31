@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://localhost:31374/ServerWS/WebServer?Tester" uri="xml-resources/web-service-references/WebServer_Tester/wsdl/localhost_31374/ServerWS/WebServer.tester"/>
+    <system systemId="http://localhost:31374/ServerWS/WebServer?WSDL" uri="xml-resources/web-service-references/WebServer/wsdl/localhost_31374/ServerWS/WebServer.wsdl"/>
+    <system systemId="http://localhost:31374/ServerWS/WebServer?xsd=1" uri="xml-resources/web-service-references/WebServer/wsdl/localhost_31374/ServerWS/WebServer.xsd_1.xsd"/>
+</catalog>
